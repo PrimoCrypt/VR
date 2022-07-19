@@ -31,7 +31,7 @@ li{
     display: inline-block;
     margin: 0;
     font-weight: 550;
-    padding: 5px 10px 0 10px;
+    padding: 2px 10px 2px 10px;
     border-radius: 8px;
 }
 a li:hover{
@@ -39,12 +39,12 @@ a li:hover{
     background-color: white;
 }
 .leftsection{
-    margin: 4% 0 0 4%;
+    margin: 0 0 0 4%;
 
 }
 /* i used line weight to change the vertical distance between lines */
 .leftsection h1{
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 900;
     line-height: 1;
 }
